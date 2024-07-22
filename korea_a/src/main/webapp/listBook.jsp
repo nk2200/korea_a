@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>도서등록</h2>
+	<h2>도서목록</h2>
 	<hr>
 </body>
 </html>
